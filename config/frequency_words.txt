@@ -256,3 +256,98 @@
 
 # 产业政策
 生产力
+
+# ═══════════════════════════════════════════════════════════════
+# AI领域（新增）
+# ═══════════════════════════════════════════════════════════════
+[大模型公司]
+/OpenAI|ChatGPT|GPT-4|GPT-5|Sora|DALL-E|DALL-E|Sam Altman|o1/ => OpenAI
+/\bClaude\b|Anthropic|Dario Amodei/ => Claude
+/谷歌|Gemini|DeepMind|Bard|PaLM|Gemini Ultra|Sundar Pichai/ => 谷歌AI
+/微软|Copilot|Magenta|Azure OpenAI|Bing Chat/ => 微软AI
+/Meta|LLaMA|Llama|Fair|Yann LeCun|扎克伯格/ => Meta AI
+/xAI|Grok|Elon Musk/ => xAI
+/Mistral|米斯泰尔/ => Mistral AI
+/Character\.ai|CharacterAI/ => Character.ai
+/Perplexity| perplexity / => Perplexity
+/月之暗面|Moonshot|Kimi/ => 月之暗面
+/零一万物|01\.ai|Yi/ => 零一万物
+/百川智能|百川/ => 百川智能
+/智谱|GLM|ChatGLM|Zhipu AI/ => 智谱AI
+/科大讯飞|星火|讯飞/ => 科大讯飞
+/百度|文心一言|ERNIE|PaddlePaddle|飞桨/ => 百度AI
+/阿里|通义千问|通义|Qwen|Tongyi/ => 阿里AI
+/MiniMax|稀宇科技/ => MiniMax
+/阶跃星辰|StepFun|跃问/ => 阶跃星辰
+/深阶|DeepSeek/ => 深阶
+
+[AI技术方向]
+/大模型|大型语言模型|LLM|基础模型|Foundation Model/ => 大语言模型
+/多模态|Multimodal|图文|视觉语言/ => 多模态
+/Agent|智能体|AI Agent/ => AI智能体
+/RAG|检索增强生成/ => RAG
+/微调|Fine-tuning|LoRA|QLoRA/ => 模型微调
+/推理|Inference/ => 模型推理
+/训练|Training|预训练/ => 模型训练
+/Transformer|Attention|注意力机制/ => Transformer
+/扩散模型|Diffusion Model|Stable Diffusion/ => 扩散模型
+/生成式AI|AIGC|Generative AI/ => 生成式AI
+/提示词|Prompt|提示工程/ => 提示工程
+/幻觉|Hallucination/ => AI幻觉
+/对齐|Alignment|RLHF|RLAIF/ => AI对齐
+/Scaling Law|缩放定律/ => 缩放定律
+/合成数据|Synthetic Data/ => 合成数据
+
+[AI应用领域]
+/AI写作|AI绘画|AI音乐|AI视频/ => AI创作
+/Copilot|副驾驶/ => AI助手
+/代码助手|Code Assistant|GitHub Copilot|Cursor|Codeium/ => AI编程
+/数字人|Virtual Human|AI主播/ => 数字人
+/AI客服|Chatbot|聊天机器人/ => AI客服
+/AI搜索|AI Search/ => AI搜索
+/自动驾驶|无人驾驶|智驾|FSD/ => 自动驾驶
+/医疗AI|AI诊断|AI制药/ => 医疗AI
+/教育AI|AI教学/ => 教育AI
+/金融AI|AI风控/ => 金融AI
+
+[AI开源项目]
+/Hugging Face|HuggingFace|transformers|diffusers/ => Hugging Face
+/LangChain|langchain/ => LangChain
+/PyTorch|torch/ => PyTorch
+/TensorFlow/ => TensorFlow
+/Stable Diffusion|StableCascade|SDXL/ => Stable Diffusion
+/Midjourney/ => Midjourney
+/ComfyUI/ => ComfyUI
+/Automatic1111/ => Automatic1111
+/Ollama|llama\.cpp/ => 本地大模型
+/vLLM/ => vLLM
+/FlashAttention/ => FlashAttention
+
+[AI芯片与硬件]
+/英伟达|NVIDIA|H100|A100|B200|GB200|Blackwell|Hopper|RTX|GeForce|CUDA/ => 英伟达
+/AMD|MI300|ROCm/ => AMD
+/英特尔|Intel|Gaudi|Habana/ => 英特尔
+/TPU|Tensor Processing Unit/ => TPU
+/NPU|神经网络处理器/ => NPU
+/AI芯片|AI Chip|算力芯片/ => AI芯片
+/推理芯片|Inference Chip/ => 推理芯片
+/训练芯片|Training Chip/ => 训练芯片
+/光模块|光通信/ => 光通信
+/数据中心|IDC/ => 数据中心
+/智算中心|算力中心/ => 智算中心
+
+[AI研究]
+/图灵奖|Turing Award/ => 图灵奖
+/NeurIPS|ICML|ICLR|CVPR|ACL|AAAI/ => AI顶会
+/Nature|Science.*AI/ => 顶级期刊AI
+/arXiv|论文预印本/ => AI论文
+/Geoffrey Hinton|Yann LeCun|Yoshua Bengio|Andrew Ng|吴恩达|李飞飞/ => AI大牛
+/Sam Altman|Dario Amodei|Demis Hassabis/ => AI领袖
+/Open Research|开源研究/ => AI开源研究
+/AGI|通用人工智能/ => AGI
+/超级智能|Superintelligence/ => 超级智能
+/AI安全|AI Safety/ => AI安全
+/AI治理|AI Governance|AI监管/ => AI治理
+/AI伦理|AI Ethics/ => AI伦理
+/深度伪造|Deepfake|AI换脸/ => 深度伪造
+/AI检测|AI Detection/ => AI检测
